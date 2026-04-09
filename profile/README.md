@@ -16,9 +16,7 @@ One Go binary. Any LLM behind it. Five governance gates on every action.
 
 ## What we ship
 
-- **[Lattice Runtime](https://github.com/lattice-runtime/lattice-runtime)** — managed agent infrastructure. Model-agnostic, self-hosted, governed. Single Go binary with embedded Temporal, cryptographic audit, RBAC+ABAC policy engine, budget enforcement, and WireGuard zero-trust mesh.
-
-- **[Website](https://latticeruntime.com)** — landing page, full interactive architecture, and engineering blog.
+**[Lattice Runtime](https://github.com/lattice-runtime/lattice-runtime)** — managed agent infrastructure. Model-agnostic, self-hosted, governed. Single Go binary with embedded Temporal, cryptographic audit, RBAC+ABAC policy engine, budget enforcement, and WireGuard zero-trust mesh.
 
 ## The pitch in 30 seconds
 
